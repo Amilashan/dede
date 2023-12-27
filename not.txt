@@ -1,0 +1,85 @@
+
+
+<<<<<<<<<<<<<TRAFFIC LIGHT ESP32>>>>>>>>>>>>>>>>>>>>>>>>>>>
+
+https://wokwi.com/projects/385283564870464513
+
+
+<<<<<<<<<<<<<TRAFFIC LIGHT ARDIUNO>>>>>>>>>>>>>>>>>>>>>>>>>>
+
+https://wokwi.com/projects/385283525429323777
+
+
+<<<<<<<<<<<<KEY PAD LCD SERVO MOTION>>>>>>>>>>>>>>>>>>>>>>>>>>
+
+https://wokwi.com/projects/385283431688719361
+
+
+<<<<<<<<<<<<<<<<<<<<<<SERVO LCD TEMP>>>>>>>>>>>>>>>>>>>>>>>>>>
+
+https://wokwi.com/projects/385283390513229825
+
+
+<<<<<<<<<<<<<<<<<<<<<<BUZZER LED TEMP RASBERRY PI>>>>>>>>>>>>>>>>>>>>>>>>>>
+
+https://wokwi.com/projects/385283390513229825
+
+
+
+<<<<<<<<<<<<<LED MOTION LCD MOTOR BUZZER>>>>>>>>>>>>>>>>>>>>>>>>>>>
+
+https://wokwi.com/projects/385252982380621825
+
+
+<<<<<<<<<<<<<<<ULTRASONIC TEMP LED BUZZER>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+
+https://wokwi.com/projects/385253071979355137
+
+
+<<<<<<<<<<ULTRASONIC LED>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+
+https://wokwi.com/projects/385253199269151745
+
+
+<<<<<<<<<<<<SERVO MOTOR>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+
+https://wokwi.com/projects/385253240827366401
+
+
+<<<<<<<<<<<<<<<<BUZZER THREE LED>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+
+https://wokwi.com/projects/385253335150983169
+
+
+
+<<<<<<<<<<<<<<<<TEMP DISPLAY ATTINY>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+
+https://wokwi.com/projects/375342562590580737
+
+
+
+<<<<<<<<<<<<<PIR AND LED>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+
+https://wokwi.com/projects/385253407939985409
+
+
+
+<<<<<<<<<<<<<TEMP AND LED>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+
+https://wokwi.com/projects/385207717756391425
+
+
+
+<<<<<<<<<<<<<LED MOTION>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+
+https://wokwi.com/projects/385283252814221313
+
+
+
+<<<<<<<<<<<<<LED rasberyPI BUZZER>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+
+https://wokwi.com/projects/385253335150983169
+
+
+
+
